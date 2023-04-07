@@ -1,3 +1,7 @@
+# Alexis Opolka
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexis-opolka&theme=onedark)](https://github.com/alexis-opolka/github-profile-trophy)
+
 ### Hi there 👋
 
 <!--
