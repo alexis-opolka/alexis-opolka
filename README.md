@@ -4,11 +4,11 @@
 
 Hi 👋,
 
-A young french student-entrepreneur and developer interested in DevOps and cloud development.  
+A young french student-entrepreneur and developer interested in DevOps and cloud development (also interested in gamedev).  
 I'm a bit of a busy worker, I always find something to do but when I don't work on something
 you may find me reading books, listening to Blues and/or Jazz.  
 
-I love Open-Source, by the way! ^-^
+I love Open-Source projects, by the way! ^-^
 
 ## Some statistics (For the stats lovers)
 
