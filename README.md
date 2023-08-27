@@ -4,7 +4,8 @@
 
 Hi 👋,
 
-A young french [student-entrepreneur](https://www.enseignementsup-recherche.gouv.fr/fr/statut-national-etudiant-entrepreneur-46412) and developer interested in DevOps and cloud development (also interested in gamedev). I aim to help the society as a whole by investing my time on projects either from me or other's.
+A young french [student-entrepreneur](https://www.enseignementsup-recherche.gouv.fr/fr/statut-national-etudiant-entrepreneur-46412) and developer interested in DevOps and cloud development (also interested in gamedev).
+I aim to help the society as a whole by investing my time on projects either from me or other's with the goal of solving issues our society might be having or helping publlic goods staying relevant.
 
 I'm a bit of a busy worker, I always find something to do but sometimes you may find me reading books, listening to either Blues, Jazz or Lo-Fi music or volunteering at Non-Profit Organisations.  
 
