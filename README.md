@@ -25,6 +25,10 @@ Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know m
 ![Opolka Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-opolka&show_icons=true&theme=radical)    
 
   </div>
+</div>
 
+<div id="github-stats-commits-streak" style="display: flex; flex-direction: row; justify-contetn: center; align-items: center;">
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  
 </div>
