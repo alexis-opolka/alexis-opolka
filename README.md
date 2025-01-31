@@ -15,20 +15,15 @@ Nota Bene - If I forked a repository, It means I worked on it or will in the nea
 
 Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know more!
 
+---
+
 ## Some statistics (For the stat lovers)
 
-<div id="github-stats-flex-wrap" style="display: flex; flex-direction: row; justify-content: start; align-items: center">
-  <div id="github-stats-col-left" style="display: flex; flex-direction: column; justify-content: inherit; align-items: inherit; flex-wrap: wrap;">
+> [!NOTE]
+> The statistics shown below are from publicly available repositories stored on GitHub.com only.\
+> Do not treat these statistics as realiable data.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexis-opolka&theme=radical&row=2&column=3)](https://github.com/alexis-opolka/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-opolka&layout=donut-vertical&theme=radical&langs_count=15)](https://github.com/alexis-opolka/github-readme-stats)
-![Opolka Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-opolka&show_icons=true&theme=radical)    
-
-  </div>
-</div>
-
-<div id="github-stats-commits-streak" style="display: flex; flex-direction: row; justify-contetn: center; align-items: center;">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-  
-</div>
+![Opolka Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-opolka&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-opolka&layout=donut&theme=dracula&langs_count=5)](https://github.com/alexis-opolka/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexis-opolka&theme=dracula&row=2&column=3)](https://github.com/alexis-opolka/github-profile-trophy)
