@@ -21,7 +21,7 @@ Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know m
 
 > [!NOTE]
 > The statistics shown below are from publicly available repositories stored on GitHub.com only.\
-> Do not treat these statistics as realiable data.
+> Do not treat these statistics as reliable data.
 
 ![Opolka Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-opolka&show_icons=true&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=dracula&mode=weekly)](https://git.io/streak-stats)
