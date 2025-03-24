@@ -11,8 +11,6 @@ I'm a bit of a busy worker, I always find something to do but sometimes you may 
 
 By the way, I love Open-Source projects! ^-^
 
-Nota Bene - If I forked a repository, It means I worked on it or will in the near future.
-
 Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know more!
 
 ---
@@ -27,3 +25,9 @@ Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know m
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-opolka&layout=donut&theme=dracula&langs_count=5)](https://github.com/alexis-opolka/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexis-opolka&theme=dracula&row=2&column=3)](https://github.com/alexis-opolka/github-profile-trophy)
+
+---
+
+## Quick links
+
+- [The linux Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
