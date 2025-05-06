@@ -22,7 +22,7 @@ Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know m
 > Do not treat these statistics as reliable data.
 
 ![Opolka Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-opolka&show_icons=true&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-opolka&theme=dracula)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-opolka&layout=donut&theme=dracula&langs_count=5)](https://github.com/alexis-opolka/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=alexis-opolka&theme=dracula&row=2&column=3)](https://github.com/alexis-opolka/github-profile-trophy)
 
