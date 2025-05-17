@@ -31,3 +31,4 @@ Go to my [about page](https://www.alexis-opolka.dev/about) if you want to know m
 ## Quick links
 
 - [The linux Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+- [The GNU Bash Manual](https://www.gnu.org/software/bash/manual/bash.html)
